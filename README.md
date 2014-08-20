@@ -10,9 +10,9 @@ Run the following query against the database (obviously you need to have select 
 ```sql
 select userid, passwordx from sys.link$;
 
-| USERID   | PASSWORDX**                                       |
-|----------|---------------------------------------------------|
-| django   | 050E1146FB18E013A378432A39171BC64D70B3BF2F671C9B16|
+| USERID   | PASSWORDX**                                        |
+| -------- | -------------------------------------------------- |
+| django   | 050E1146FB18E013A378432A39171BC64D70B3BF2F671C9B16 |
 ```
 
 **usage()**
@@ -24,10 +24,10 @@ oraDBLinkPassDecrypter.py takes two arguments
 
 oraDBLinkPassDecrypter.py 11|12 USERID:PASSWORDX
 
-```python
+```
 python oraDbLinkPassDecrypt.py 11 django:050E1146FB18E013A378432A39171BC64D70B3BF2F671C9B16
+**Decrypted password of django is djangotest321**
 ```
 
-**Decrypted password of django is djangotest321**
 
 [Further details on my blog](http://www.agiledba.com)
