@@ -30,4 +30,4 @@ Decrypted password of django is djangotest321
 ```
 
 
-[Further details on my blog](http://www.agiledba.com)
+[Further details on my blog](http://blog.agiledba.com/2014/08/20/oracle-db-link…ord-decryption/)
