@@ -10,7 +10,7 @@ Run the following query against the database (obviously you need to have select 
 select userid||':'||passwordx from sys.link$;
 
 userid||':'||passwordx
-----------------------
+
 django:050E1146FB18E013A378432A39171BC64D70B3BF2F671C9B16
 
 Feed this output 
