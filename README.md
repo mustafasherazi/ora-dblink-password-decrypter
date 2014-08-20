@@ -29,3 +29,5 @@ python oraDbLinkPassDecrypt.py 11 django:050E1146FB18E013A378432A39171BC64D70B3B
 ```
 
 **Decrypted password of django is djangotest321**
+
+[Further details on my blog](http://www.agiledba.com)
