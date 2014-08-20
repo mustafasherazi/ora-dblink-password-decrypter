@@ -26,7 +26,7 @@ oraDBLinkPassDecrypter.py 11|12 USERID:PASSWORDX
 
 ```
 python oraDbLinkPassDecrypt.py 11 django:050E1146FB18E013A378432A39171BC64D70B3BF2F671C9B16
-<b>Decrypted password of django is djangotest321<b>
+Decrypted password of django is djangotest321
 ```
 
 
