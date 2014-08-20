@@ -9,11 +9,11 @@ Run the following query against the database (obviously you need to have select 
 
 ```sql
 select userid, passwordx from sys.link$;
-
+```
 | USERID   | PASSWORDX**                                        |
 | -------- | -------------------------------------------------- |
 | django   | 050E1146FB18E013A378432A39171BC64D70B3BF2F671C9B16 |
-```
+
 
 **usage()**
 
